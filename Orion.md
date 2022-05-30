@@ -80,7 +80,6 @@ Tab:AddToggle(
     {
         Name = "",
         Default = false,
-        Flag = "",
         Callback = function(x)
             getgenv().Toggle = x
 
